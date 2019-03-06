@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="87beab854f00330049ce01bda310c7bd" sys_domain="global" table="x_286552_iplookup_ipaddressinfo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_id>4fbeab854f00330049ce01bda310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_286552_iplookup_ipaddressinfo" sys_domain="global" view="Default view">87beab854f00330049ce01bda310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_id>47beab854f00330049ce01bda310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_286552_iplookup_ipaddressinfo" sys_domain="global" view="Default view">87beab854f00330049ce01bda310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_id>c7beab854f00330049ce01bda310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_286552_iplookup_ipaddressinfo" sys_domain="global" view="Default view">87beab854f00330049ce01bda310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_id>4bbeab854f00330049ce01bda310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_286552_iplookup_ipaddressinfo" sys_domain="global" view="Default view">87beab854f00330049ce01bda310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_id>cbbeab854f00330049ce01bda310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_286552_iplookup_ipaddressinfo" sys_domain="global" view="Default view">87beab854f00330049ce01bda310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_286552_iplookup_ipaddressinfo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 10:44:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87beab854f00330049ce01bda310c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_286552_iplookup_ipaddressinfo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPLookup" source="x_286552_iplookup">8e882f414f00330049ce01bda310c753</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">8e882f414f00330049ce01bda310c753</sys_scope>
+            <sys_update_name>sys_ui_section_87beab854f00330049ce01bda310c7bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 10:44:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
